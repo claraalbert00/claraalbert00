@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claraalbert00
-- 👀 I’m interested in programming
-- 💞️ I’m looking for a job
+- 👀 I’m interested in Artificial Intelligence
+- 💞️ I’m looking to expand my knowledge
 - 📫 How to reach me at www.linkedin.com/in/clara-albert-vilá-3610a7214
 
 <!---
