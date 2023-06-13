@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @claraalbert00
 - 👀 I’m interested in Artificial Intelligence
 - 💞️ I’m looking to expand my knowledge
-- 📫 How to reach me at www.linkedin.com/in/clara-albert-vilá-3610a7214
+- 📫 You can reach me at www.linkedin.com/in/clara-albert-vilá-3610a7214
 
 <!---
 claraalbert00/claraalbert00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
